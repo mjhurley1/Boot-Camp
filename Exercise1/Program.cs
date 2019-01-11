@@ -6,8 +6,11 @@ namespace Exercise1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine(" and add this");
+            Console.Write("Please enter your name : ");
+
+            var data = Console.ReadLine();
+
+            Console.WriteLine("You enetered " + data);
             Console.ReadLine();
         }
     }
