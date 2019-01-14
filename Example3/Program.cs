@@ -15,7 +15,7 @@ namespace Example3
             string sampleString = "This is a string variable"; //string contains alphanumeric chatacters (text)
             Console.WriteLine("sampleString is equal to " + sampleString);
 
-            sampleString = "I have updated this variable again, on Saturday!";
+            sampleString = "I have updated this variable again, on Sunday!";
             Console.WriteLine("we changed sampleString's value to " + sampleString);
 
             int sampleInteger = 7; //int contains whole numbers only
