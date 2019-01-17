@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise1", "Exercise1\Exer
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise2", "Exercise2\Exercise2.csproj", "{77FD5B0E-5BA7-46ED-A608-ADDF497862DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise3", "Example3\Exercise3.csproj", "{1010AE88-BF97-4FF5-9D86-80A105296823}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise3", "Example3\Exercise3.csproj", "{1010AE88-BF97-4FF5-9D86-80A105296823}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablePractice", "VariablePractice\VariablePractice.csproj", "{58AC677D-CD40-437F-A802-7CA712918236}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablePractice", "VariablePractice\VariablePractice.csproj", "{58AC677D-CD40-437F-A802-7CA712918236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methods", "methods\methods.csproj", "{A1A2930A-DA75-4513-98F3-860E7CAE9A97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{58AC677D-CD40-437F-A802-7CA712918236}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58AC677D-CD40-437F-A802-7CA712918236}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58AC677D-CD40-437F-A802-7CA712918236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1A2930A-DA75-4513-98F3-860E7CAE9A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A2930A-DA75-4513-98F3-860E7CAE9A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A2930A-DA75-4513-98F3-860E7CAE9A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A2930A-DA75-4513-98F3-860E7CAE9A97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
