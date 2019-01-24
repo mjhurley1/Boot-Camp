@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise3", "Example3\Exerc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablePractice", "VariablePractice\VariablePractice.csproj", "{58AC677D-CD40-437F-A802-7CA712918236}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methods", "methods\methods.csproj", "{A1A2930A-DA75-4513-98F3-860E7CAE9A97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "methods", "methods\methods.csproj", "{A1A2930A-DA75-4513-98F3-860E7CAE9A97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area-of-Rectangle", "Area-of-Rectangle\Area-of-Rectangle.csproj", "{61739AA8-33EE-4C51-ABE9-5B7DECBDC4F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Area-of-Rectangle", "Area-of-Rectangle\Area-of-Rectangle.csproj", "{61739AA8-33EE-4C51-ABE9-5B7DECBDC4F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cubes", "Cubes\Cubes.csproj", "{79E5279F-CE65-493C-97E2-BA5BB760D7AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{61739AA8-33EE-4C51-ABE9-5B7DECBDC4F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61739AA8-33EE-4C51-ABE9-5B7DECBDC4F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61739AA8-33EE-4C51-ABE9-5B7DECBDC4F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79E5279F-CE65-493C-97E2-BA5BB760D7AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E5279F-CE65-493C-97E2-BA5BB760D7AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E5279F-CE65-493C-97E2-BA5BB760D7AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E5279F-CE65-493C-97E2-BA5BB760D7AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
