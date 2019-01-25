@@ -3,6 +3,7 @@
     //this is a blue print of a Cube
     public class Cube
     {
+        //properties
         public int Length { get; set; }
         public int Width { get; set; }
         public int Height { get; set; }
@@ -15,7 +16,7 @@
             Width = width;
         }
 
-        //area
+        //methods
         public double CalcualteArea()
         {
             return (double)Height * Width * Length;
