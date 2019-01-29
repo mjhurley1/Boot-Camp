@@ -1,4 +1,4 @@
-﻿namespace Circles
+﻿namespace Circles2
 {
     public class Circle
     {
@@ -7,24 +7,20 @@
         //properties
         public int Radius { get; set; }
 
-        //constructor
         public Circle(int radius)
         {
             Radius = radius;
         }
 
         //methods
-        public double CalculatedCircumference()
+        public double CalculateCircumference()
         {
             return Radius * Pi;
         }
 
-        public double CalculateArea()
+        public double Calculatearea()
         {
             return Radius * Radius * Pi;
         }
     }
 }
-        
-
- 

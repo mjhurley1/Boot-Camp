@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "methods", "methods\methods.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Area-of-Rectangle", "Area-of-Rectangle\Area-of-Rectangle.csproj", "{61739AA8-33EE-4C51-ABE9-5B7DECBDC4F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cubes", "Cubes\Cubes.csproj", "{79E5279F-CE65-493C-97E2-BA5BB760D7AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cubes", "Cubes\Cubes.csproj", "{79E5279F-CE65-493C-97E2-BA5BB760D7AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circles", "Circles\Circles.csproj", "{7B3D9E3E-E82D-4213-B296-911463829D6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Circles", "Circles\Circles.csproj", "{7B3D9E3E-E82D-4213-B296-911463829D6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circles2", "Circles2\Circles2.csproj", "{B5762FC8-A6EA-4CA4-A016-E2DB273BD0FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{7B3D9E3E-E82D-4213-B296-911463829D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B3D9E3E-E82D-4213-B296-911463829D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B3D9E3E-E82D-4213-B296-911463829D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5762FC8-A6EA-4CA4-A016-E2DB273BD0FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5762FC8-A6EA-4CA4-A016-E2DB273BD0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5762FC8-A6EA-4CA4-A016-E2DB273BD0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5762FC8-A6EA-4CA4-A016-E2DB273BD0FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
